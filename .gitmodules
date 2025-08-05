@@ -1,3 +1,6 @@
 [submodule "ungoogled-chromium"]
 	path = ungoogled-chromium
 	url = https://github.com/Anmol202005/ungoogled-chromium.git
+[submodule "ungoogled-chromium-macos"]
+	path = ungoogled-chromium-macos
+	url = https://github.com/ungoogled-software/ungoogled-chromium-macos.git
